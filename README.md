@@ -1,2 +1,1 @@
-# Firefly-Issues
-Report Bugs Here!
+# Issue Template
